@@ -8,9 +8,9 @@ But, these tools (software and services) will make tracking you a (very) difficu
 
 # Table of Contents
 1. [Operative Systems](https://github.com/IdeaSmith0/Awesome-Privacy/blob/main/Recommendation.md#1-operative-system)
-  - GNU/Linux
-    - Recommended
-    - Non-SystemD Distros
+  - [GNU/Linux](https://github.com/IdeaSmith0/Awesome-Privacy/blob/main/Recommendation.md#a-gnulinux)
+    - [Recommended](https://github.com/IdeaSmith0/Awesome-Privacy/edit/main/Recommendation.md#i-recommended)
+    - [Non-SystemD Distros](https://github.com/IdeaSmith0/Awesome-Privacy/edit/main/Recommendation.md#ii-non-systemd-distributions)
     - Special Linux Distributions
     - Not Recommended
   - BSD (Berkeley Software Distribution)
@@ -32,8 +32,8 @@ But, these tools (software and services) will make tracking you a (very) difficu
 
 -----
 
-# 1. Operative System
-## A. GNU/Linux
+# 1. Operative System 
+## A. GNU/Linux 
 
 > [!IMPORTANT]
 > During installation, make sure to use full-disk encryption, which must be an LVM Encryption (if there is a specific installer that doesn't have LVM, just use encryption instead), and use a PassPhrase that has over 5-7 words long that doesn't include in the dictionary (Which is the dictionary attack). This is to prevent thieft, cyber attack, and the law enforcement from searching your data on your computer.
@@ -56,7 +56,9 @@ FOSS: (Yes/No)
 
 (Outdated) Distro Choosers: [DistroChooser.de](https://distrochooser.de/) and [LibreHunt.org](https://librehunt.org/).
 
-### I. Recommended
+[Back To Top](https://github.com/IdeaSmith0/Awesome-Privacy/edit/main/Recommendation.md#table-of-contents)
+
+### I. Recommended 
 ![image](https://github.com/user-attachments/assets/1ffe653d-d35b-4239-ae8d-e3d00283e21f)
 Linux Mint
 
@@ -81,6 +83,8 @@ Recommendation: Recommended only for Intermediate users, their great free softwa
 
 Suitable Alternatives: Devuan GNU/Linux, Linux Mint Debian Edition.
 
+[Back To Top](https://github.com/IdeaSmith0/Awesome-Privacy/edit/main/Recommendation.md#table-of-contents)
+
 ### II. Non-SystemD Distributions
 
 > [!NOTE]
@@ -96,3 +100,4 @@ Recommendation: Use this distro if you want a simple alternative to Arch Linux, 
 
 More to come...
 
+[Back To Top](https://github.com/IdeaSmith0/Awesome-Privacy/edit/main/Recommendation.md#table-of-contents)
