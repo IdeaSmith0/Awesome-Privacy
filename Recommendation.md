@@ -43,16 +43,16 @@ But, these tools (software and services) will make tracking you a (very) difficu
 
 GNU/Linux Check List:
 
-Derivative: (Independent/Mention Distro)
-Spyware: (Yes/No)
-Telemetry: (Yes/No)
-Woke: (Yes/No)
-SystemD: (Yes/No)
-Free Software: (Proprietary/Freedom/Both or Mixed)
-Corporate Ties: (Funding/Owned/No/Yes) (Funding: Funded by a Corporate Entity. Owned: Owned by a specific Corporate Entity, e.g Red Hat Inc./SUSE)
-Politics: (Yes/No)
-Meets my Required Packages (Software): (Yes/No) (Basically a software you want to use, if there is no software that you want or you use regularly)
-FOSS: (Yes/No)
+- Derivative: (Independent/Mention Distro)
+- Spyware: (Yes/No)
+- Telemetry: (Yes/No)
+- Woke: (Yes/No)
+- SystemD: (Yes/No)
+- Free Software: (Proprietary/Freedom/Both or Mixed)
+- Corporate Ties: (Funding/Owned/No/Yes) (Funding: Funded by a Corporate Entity. Owned: Owned by a specific Corporate Entity, e.g Red Hat Inc./SUSE)
+- Politics: (Yes/No)
+- Meets my Required Packages (Software): (Yes/No) (Basically a software you want to use, if there is no software that you want or you use regularly)
+- FOSS: (Yes/No)
 
 (Outdated) Distro Choosers: [DistroChooser.de](https://distrochooser.de/) and [LibreHunt.org](https://librehunt.org/).
 
