@@ -9,8 +9,8 @@ But, these tools (software and services) will make tracking you a (very) difficu
 # Table of Contents
 1. [Operative Systems](https://github.com/IdeaSmith0/Awesome-Privacy/blob/main/Recommendation.md#1-operative-system)
   - [GNU/Linux](https://github.com/IdeaSmith0/Awesome-Privacy/blob/main/Recommendation.md#a-gnulinux)
-    - [Recommended](https://github.com/IdeaSmith0/Awesome-Privacy/edit/main/Recommendation.md#i-recommended)
-    - [Non-SystemD Distros](https://github.com/IdeaSmith0/Awesome-Privacy/edit/main/Recommendation.md#ii-non-systemd-distributions)
+    - [Recommended](https://github.com/IdeaSmith0/Awesome-Privacy/blob/main/Recommendation.md#i-recommended)
+    - [Non-SystemD Distros](https://github.com/IdeaSmith0/Awesome-Privacy/blob/main/Recommendation.md#ii-non-systemd-distributions)
     - Special Linux Distributions
     - Not Recommended
   - BSD (Berkeley Software Distribution)
@@ -56,7 +56,7 @@ FOSS: (Yes/No)
 
 (Outdated) Distro Choosers: [DistroChooser.de](https://distrochooser.de/) and [LibreHunt.org](https://librehunt.org/).
 
-[Back To Top](https://github.com/IdeaSmith0/Awesome-Privacy/edit/main/Recommendation.md#table-of-contents)
+[Back To Top](https://github.com/IdeaSmith0/Awesome-Privacy/blob/main/Recommendation.md#table-of-contents)
 
 ### I. Recommended 
 ![image](https://github.com/user-attachments/assets/1ffe653d-d35b-4239-ae8d-e3d00283e21f)
@@ -83,7 +83,7 @@ Recommendation: Recommended only for Intermediate users, their great free softwa
 
 Suitable Alternatives: Devuan GNU/Linux, Linux Mint Debian Edition.
 
-[Back To Top](https://github.com/IdeaSmith0/Awesome-Privacy/edit/main/Recommendation.md#table-of-contents)
+[Back To Top](https://github.com/IdeaSmith0/Awesome-Privacy/blob/main/Recommendation.md#table-of-contents)
 
 ### II. Non-SystemD Distributions
 
@@ -100,4 +100,4 @@ Recommendation: Use this distro if you want a simple alternative to Arch Linux, 
 
 More to come...
 
-[Back To Top](https://github.com/IdeaSmith0/Awesome-Privacy/edit/main/Recommendation.md#table-of-contents)
+[Back To Top](https://github.com/IdeaSmith0/Awesome-Privacy/blob/main/Recommendation.md#table-of-contents)
