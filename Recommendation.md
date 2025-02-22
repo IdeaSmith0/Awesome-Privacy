@@ -7,7 +7,7 @@ But, these tools (software and services) will make tracking you a (very) difficu
 -----
 
 # Table of Contents
-1. [Operative Systems](#1.-operative-system)
+1. [Operative Systems](https://github.com/IdeaSmith0/Awesome-Privacy/blob/main/Recommendation.md#1-operative-system)
   - GNU/Linux
     - Recommended
     - Non-SystemD Distros
