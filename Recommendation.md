@@ -98,6 +98,18 @@ Overview: Artix Linux is a non-systemD distro, based on Arch Linux, and despite 
 
 Recommendation: Use this distro if you want a simple alternative to Arch Linux, that is non-woke and has the latest technologies and packages that you want to use. Recommended to use KDE Plasma or Cinnamon if you want something that's popular or used a lot, if you want something that's lightweight use Xfce or MATE. For Init systems, choose what interests you. In my opinion OpenRC or dinit might be interesting, but I would rather choose OpenRC for that specifc reason.
 
-More to come...
+![image](https://github.com/user-attachments/assets/180dc5fe-b125-46db-8742-c566c8f40f25)
+Devuan GNU/Linux
+
+Overview: Devuan GNU/Linux is a debian fork of 2015, making the default desktop to be Xfce, they have the same branches as Debian has but instead it's as deb packages, and the release cycle is as slow as Debian, like a lot slower, due to development (or something else, I guess). They are also non-woke, reportedly to be liking the podcast of Brian Lunduke (journalist at Lunduke Journals), their "no code of conduct" makes it very interesting and in theory it's very effective at making it ineffective at being weaponized, but that's me talking about their form instead of the project, reason? Nothing special.
+
+Recommendation: Only recommended if you want a non-woke and non-systemD replacement from Debian, while also wanting the same aspect and package management from Debian, that's all, I have no idea what to tell you.
 
 [Back To Top](https://github.com/IdeaSmith0/Awesome-Privacy/blob/main/Recommendation.md#table-of-contents)
+
+### III. Specialized Linux Distributions
+
+> [!NOTE]
+> Right, what is so special about this section? Basically this is where 4 linux distros are listed here, sometimes they are woke and maybe not, but what's so special is the fact that they are security, privacy, and anonymity certified, like one is used for containerization called qubes, USB live mode based distribution that runs through tor, one is for the virtual machines, and one can be used as a actual desktop. What it means is simply they are used by journalists, activists, domestic abuse victims, or people who want privacy, security, and anonymity. So here is the list here.
+
+I'll do it later.
