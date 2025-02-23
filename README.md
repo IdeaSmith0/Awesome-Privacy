@@ -11,7 +11,7 @@ If you have any non-fake privacy insitiatives, please submit a issue as a "new f
 
 # Directory
 
-Recommendation List: 
+[Recommendation List](https://github.com/IdeaSmith0/Awesome-Privacy/blob/main/Recommendation.md)
 
 -----
 
